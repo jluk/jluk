@@ -4,7 +4,6 @@ My day job is product management for [Azure](https://github.com/Azure), specific
 
 ## What do you spend time on?
 
-- 
 - :boat: [Maintainer for AKS github](https://github.com/Azure/AKS)
 - :pencil2: [Write about tech & product management on Medium](https://medium.com/@justinluk)
 - Often day dreaming about playing music :musical_note:, building new things :hammer:, and my St. Bernard :dog:.
