@@ -1,9 +1,10 @@
 ## 👋 Hey I'm Justin! 
 
-My day job is as a product manager!
+My day job is a product manager, but I love hacking on AI at all times. My personal passions include Crossfit, Motorcycles, and Backpacking.
 
 ## What do you spend time on?
 
+- Vibe coding projects
 - :pencil2: [Write about tech & product management on Medium](https://medium.com/@justinluk)
 - Often day dreaming about playing music :musical_note:, building new things :hammer:, and my St. Bernard :dog:.
 
