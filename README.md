@@ -4,7 +4,7 @@ My day job is a product manager, but I love hacking on AI at all times. My perso
 
 ## What do you spend time on?
 
-- Vibe coding projects
+- Vibe coding projects (jluk.me)
 - :pencil2: [Write about tech & product management on Medium](https://medium.com/@justinluk)
 - Often day dreaming about playing music :musical_note:, building new things :hammer:, and my St. Bernard :dog:.
 
