@@ -1,16 +1,16 @@
 ## 👋 Hey I'm Justin! 
 
-My day job is a product manager, but I love hacking on AI at all times. My personal passions include Crossfit, Motorcycles, and Backpacking.
+Day job as a product manager. Build stuff at times.
+Prefer Crossfit, Motorcycles, and Backpacking.
 
 ## What do you spend time on?
 
-- Vibe coding projects ([jluk.me](jluk.me))
+- Vibe coding projects ([pmroast.com](pmroast.com)), ([jluk.me](jluk.me))
 - :pencil2: [Write about tech & product management on Medium](https://medium.com/@justinluk)
-- Often day dreaming about playing music :musical_note:, building new things :hammer:, and my St. Bernard :dog:.
 
-## Let's connect!
+## Connect with me
 
-Chat with me on Twitter (@whosjluk) or connect on LinkedIn!
+Chat with me on Twitter (@whosjluk) or on LinkedIn
 <p align="left">
 	<a href="https://twitter.com/whosjluk"><img src="https://img.shields.io/twitter/follow/whosjluk?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/lukjustin"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
