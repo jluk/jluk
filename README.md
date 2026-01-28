@@ -5,7 +5,10 @@ Prefer Crossfit, Motorcycles, and Backpacking.
 
 ## What do you spend time on?
 
-- Vibe coding projects ([pmroast.com](pmroast.com)), ([jluk.me](jluk.me))
+- Vibe coding projects
+	- cooked
+	- [pmroast.com](pmroast.com)
+	- [jluk.me](jluk.me)
 - :pencil2: [Write about tech & product management on Medium](https://medium.com/@justinluk)
 
 ## Connect with me
