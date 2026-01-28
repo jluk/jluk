@@ -8,6 +8,7 @@ Prefer Crossfit, Motorcycles, and Backpacking.
 - Vibe coding projects
 	- cooked
 	- [pmroast.com](pmroast.com)
+   		- [commercial using Remotion NPX Skill](https://github.com/jluk/pmroast-commercial)
 	- [jluk.me](jluk.me)
 - :pencil2: [Write about tech & product management on Medium](https://medium.com/@justinluk)
 
