@@ -6,9 +6,9 @@ Early mornings spent on Crossfit, evenings on Motorcycles, and weekends Backpack
 ## What do you spend time on?
 
 - Vibe coding projects
-	- [pmroast.com](pmroast.com)
+	- [pmroast.com](https://pmroast.com)
    		- [commercial using Remotion NPX Skill](https://github.com/jluk/pmroast-commercial)
-	- [jluk.me](jluk.me)
+	- [jluk.me](https://jluk.me)
 - :pencil2: [Write about tech & product management on Medium](https://medium.com/@justinluk)
 
 ## Connect with me
