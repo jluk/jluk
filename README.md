@@ -1,12 +1,11 @@
 ## 👋 Hey I'm Justin! 
 
-Day job as a product manager. Build stuff at times.
-Prefer Crossfit, Motorcycles, and Backpacking.
+Day job as a product manager shipping AI models.
+Early mornings spent on Crossfit, evenings on Motorcycles, and weekends Backpacking.
 
 ## What do you spend time on?
 
 - Vibe coding projects
-	- cooked
 	- [pmroast.com](pmroast.com)
    		- [commercial using Remotion NPX Skill](https://github.com/jluk/pmroast-commercial)
 	- [jluk.me](jluk.me)
