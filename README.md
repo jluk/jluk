@@ -11,6 +11,12 @@ Early mornings spent on Crossfit, evenings on Motorcycles, and weekends Backpack
 	- [jluk.me](https://jluk.me)
 - :pencil2: [Write about tech & product management on Medium](https://medium.com/@justinluk)
 
+## On the docket
+- Social: memes should be auto-generated in private group chats. taking context is hard with privacy, but you could MVP auto-generation from common templates.
+- Writing: AI-supported writing needs to be more iterative and funner, the current method is insanely boring and ineffective. Imagine a gamified version with live improv with you and an AI to create unique writing work that is in your voice. Think more on what "in your voice" truly means bc its clearly the missing link today.
+- Finance: bullet pointed feed pushed of latest earnings calls. what's hard is the format and info density balance.
+- Tooling: UI/UX tweaks have been insanely painful in last agentic project. It'd be fun to run a prototype mode with agents that explores lots of varying UI/UX you can play with instead of a single directed path. Sub-agents fit this paradigm quite well and may reveal unique product experiences.
+
 ## Connect with me
 
 Chat with me on Twitter (@whosjluk) or on LinkedIn
