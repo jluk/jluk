@@ -1,15 +1,15 @@
 ## 👋 Hey I'm Justin! 
 
 Day job as a product manager shipping AI models.
-Early mornings spent on Crossfit, evenings on Motorcycles, and weekends Backpacking.
 
-## What do you spend time on?
+Early mornings spent on learning + Crossfit, evenings on Motorcycles, and weekends Backpacking.
 
-- Vibe coding projects
-	- [pmroast.com](https://pmroast.com)
-   		- [commercial using Remotion NPX Skill](https://github.com/jluk/pmroast-commercial)
-	- [jluk.me](https://jluk.me)
-- :pencil2: [Write about tech & product management on Medium](https://medium.com/@justinluk)
+## Side projects
+- 🌱 WIP [recon](https://github.com/jluk/recon) - ask your agent to do competitive intel, get results in email
+- :rocket: Live: [pmroast.com](https://pmroast.com) - get career advice in a pokeman card keepsake
+	- [commercial using Remotion NPX Skill](https://github.com/jluk/pmroast-commercial)
+- :rocket: Live: [jluk.me](https://jluk.me) - personal portfolio
+- :pencil2: Writing about [tech & product management](https://medium.com/@justinluk)
 
 ## On the docket
 - Social: memes should be auto-generated in private group chats. taking context is hard with privacy, but you could MVP auto-generation from common templates.
